@@ -11,6 +11,8 @@
 [<img align="left" alt="dev-nekko" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/github.svg" />][website]
 [<img align="left" alt="dev-nekko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
+
 ### Lenguajes y herramientas:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -29,7 +31,7 @@
 <br />
 ---
 
-<img align="left" alt="dev-nekko's Github Stats" src="https://github-readme-stats.dev-nekko.vercel.app/api?username=dev-nekko&show_icons=true&hide_border=true" />
+<img align="left" alt="dev-nekko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dev-nekko&show_icons=true&hide_border=true" />
 
 <!--
 **dev-nekko/dev-nekko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
