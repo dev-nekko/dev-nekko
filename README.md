@@ -1,6 +1,6 @@
 ### Hola a todos, Soy Renatto - aka [dev-nekko][website] 👋
 
-### Soy Desarrollador, Programador, Analista y Innovador
+### Soy Desarrollador, Programador, Analista e Innovador
 
 - 💻 Actualmente estoy colaborando en [Adathink Lab][adathink]
 - 🌱 Actualmente estoy aprendiendo nuevas tecnologias
