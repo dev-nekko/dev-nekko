@@ -4,7 +4,7 @@
 
 - 💻 Actualmente estoy colaborando en [Adathink Lab][adathink]
 - 🌱 Actualmente estoy aprendiendo nuevas tecnologias
-- ⚡ Idiomas: Ingles y Español
+- ⚡ Idiomas: Ingles , Español y Italiano
 
 ### Puedes ponerte en contacto conmigo:
 
