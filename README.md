@@ -29,8 +29,9 @@
 
 <br />
 <br />
-
+<!--
 <img align="left" alt="dev-nekko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dev-nekko&show_icons=true&hide_border=true" />
+-->
 
 <!--
 **dev-nekko/dev-nekko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
