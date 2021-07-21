@@ -2,9 +2,8 @@
 
 ### Soy Desarrollador, Programador, Analista e Innovador
 
-- 💻 Actualmente estoy colaborando en [Adathink Lab][adathink]
 - 🌱 Actualmente estoy aprendiendo nuevas tecnologias
-- ⚡ Idiomas: Ingles , Español y Italiano
+- ⚡ Idiomas: Ingles , Español e Italiano
 
 ### Puedes ponerte en contacto conmigo:
 
